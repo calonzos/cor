@@ -1,0 +1,2 @@
+# cor
+Cooperative Rules Methodology
