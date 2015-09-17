@@ -1,0 +1,3 @@
+/home/eortega/Descargas/cor_project/libraries/fuzzylite/CMakeFiles/fl-bin.dir
+/home/eortega/Descargas/cor_project/libraries/fuzzylite/CMakeFiles/fl-shared.dir
+/home/eortega/Descargas/cor_project/libraries/fuzzylite/CMakeFiles/fl-static.dir
